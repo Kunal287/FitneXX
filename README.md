@@ -1,4 +1,4 @@
-# bmi_app
+# FitneXX
 
 A new Flutter project.
 
