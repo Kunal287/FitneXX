@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187570418001",
+    "project_id": "fitnexx-4896f",
+    "storage_bucket": "fitnexx-4896f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187570418001:android:753b45cdaab0eb64822370",
+        "android_client_info": {
+          "package_name": "com.example.bmi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187570418001-urc7j7mu5okuk3h4om22re2bvig17603.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-m6D1Ok_V-QPBJT-_q1eEaPSRn58XuaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187570418001-urc7j7mu5okuk3h4om22re2bvig17603.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
