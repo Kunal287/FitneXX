@@ -1,16 +1,3 @@
 # FitneXX
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FitneXX is Fitness Application developed using flutter.This app helps you follow a workout routine it also provides detailed instructions about particular exercises and short video tutorials.This app also helps you to track your important health indicators like BMI,THR etc.
